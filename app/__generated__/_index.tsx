@@ -10,10 +10,10 @@ import { Box as Box, Image as Image, Heading as Heading, Paragraph as Paragraph,
 import { Accordion as Accordion, AccordionItem as AccordionItem, AccordionHeader as AccordionHeader, AccordionTrigger as AccordionTrigger, AccordionContent as AccordionContent } from "@webstudio-is/sdk-components-react-radix";
 
 
-      export const siteName = undefined;
+      export const siteName = "Olive AI - Human-Like AI Voice Agents";
 
       export const favIconAsset: ImageAsset | undefined =
-        undefined;
+        {"id":"745d5585332e46bffc2346c248d0d48be789ae319c9258db1ac1ae8f0dcef57a","name":"Group_1_(2)_EvgHLk8D-h4c6kGD9R0jG.png","description":null,"projectId":"c0165f10-e497-48ee-a8b9-2036941af185","size":65069,"type":"image","format":"png","createdAt":"2024-07-18T20:46:55.119Z","meta":{"width":2846,"height":1500}};
 
       export const socialImageAsset: ImageAsset | undefined =
         undefined;
