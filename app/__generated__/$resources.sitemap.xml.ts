@@ -2,7 +2,7 @@
       export const sitemap = [
   {
     "path": "/",
-    "lastModified": "2024-07-21"
+    "lastModified": "2024-07-22"
   }
 ];
     

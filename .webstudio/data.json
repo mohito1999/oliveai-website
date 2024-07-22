@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "5d475af7-5851-48f0-b2c5-16fd78bf934c",
+    "id": "ffa4a563-8567-4c6b-826d-368b2e5f9b3a",
     "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
-    "version": 1802,
-    "createdAt": "2024-07-21T19:30:46.276",
-    "updatedAt": "2024-07-21T19:30:46.276",
+    "version": 1807,
+    "createdAt": "2024-07-22T09:30:40.881",
+    "updatedAt": "2024-07-22T09:30:40.881",
     "pages": {
       "meta": {
         "siteName": "Olive AI - Human-Like AI Voice Agents",
@@ -13494,6 +13494,38 @@
             "value": "700"
           }
         }
+      ],
+      [
+        "mMmpNLsEM9UONv3r_LPTV:yoGZNS9YONZO_Covc643s:backgroundColor::hover",
+        {
+          "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "mMmpNLsEM9UONv3r_LPTV",
+          "state": ":hover",
+          "property": "backgroundColor",
+          "value": {
+            "type": "rgb",
+            "r": 20,
+            "g": 162,
+            "b": 71,
+            "alpha": 1
+          }
+        }
+      ],
+      [
+        "mMmpNLsEM9UONv3r_LPTV:yoGZNS9YONZO_Covc643s:color::hover",
+        {
+          "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "mMmpNLsEM9UONv3r_LPTV",
+          "state": ":hover",
+          "property": "color",
+          "value": {
+            "type": "rgb",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "alpha": 1
+          }
+        }
       ]
     ],
     "styleSources": [
@@ -15128,7 +15160,7 @@
           "instanceId": "DNEbOocnHoJh-HYhVJ-sZ",
           "name": "href",
           "type": "string",
-          "value": "https://calendly.com/mohitmotwani1999/olive"
+          "value": "https://app.oliveai.in/"
         }
       ],
       [
@@ -16029,7 +16061,7 @@
           "children": [
             {
               "type": "text",
-              "value": "Get in Touch"
+              "value": "Login"
             }
           ]
         }
