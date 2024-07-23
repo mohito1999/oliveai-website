@@ -64,7 +64,7 @@ className="c1twnoba c13tpewa">
 data-ws-id="DNEbOocnHoJh-HYhVJ-sZ"
 data-ws-component="Link"
 href={"https://app.oliveai.in/"}
-className="cja4d00 cmi5gnt cvfg8e c1uqhfdn c1ksxoi4 c1ss3ro8 c1u0oktp c1mang48 c1p8y3bj c10tb7jb c1tbqsf8 c1tubq6u c1lveiqp cwjywhw c1a3emqs cq0q2o2 cicsfna c332z52 cpenikt c1uqkwyv c10obfo5 c1cfjlc7 cz93543 c18ojo3a c971v69 c1vibfou c1wjpkxs c1q3o1u3 cviaych c1qdz93x c1yknwe c16brilo c8blu03 c1c30yjp cpqu1n2 cacagee cd2ve3n ciotgsx c1dip7do ch3e1s9 c15eo6hu ctq4o5e c1274y9c c1yesl7s cgyzrxo c1u9ong8 c1x3u2y c1l3fu6x">
+className="cja4d00 cmi5gnt cvfg8e c1uqhfdn c1ksxoi4 c1ss3ro8 c1u0oktp c1mang48 c1p8y3bj c10tb7jb c1tbqsf8 c1tubq6u c1lveiqp cwjywhw c1a3emqs c1bcpvbw cc4uvtg c332z52 cpenikt c1uqkwyv cfzyolf ch8e93x cz93543 c18ojo3a c971v69 c63p2ou c1qcvcv0 c1q3o1u3 cviaych c1qdz93x c1yknwe c16brilo c8blu03 c1c30yjp cfwkzco cacagee cd2ve3n ciotgsx c1dip7do ch3e1s9 c15eo6hu ctq4o5e c1274y9c c1a7njse cgyzrxo c1u9ong8 c1x3u2y c1l3fu6x c18ge3nw c1l9ddxb coaeim3 cl47cg">
 {"Login"}
 </Link>
 </Box>
@@ -97,7 +97,7 @@ className="c1twnoba c1cp5uwz c1vy6a0n c1j59bld c1p8y3bj c1y76a64 ca0gl3f c15mje2
 data-ws-id="PbUph0R55TTB-7ZAr8B9n"
 data-ws-component="Link"
 href={"https://calendly.com/mohitmotwani1999/olive"}
-className="chs43hq c14kkg6c cmi5gnt cvfg8e c1uqhfdn c1ksxoi4 c1mlz7eb cihupgk cv5orsw cqciqil c1m1w67o c1r16s9c c1h43rey c1x3u2y c1l3fu6x czx4ung c1b1ht1h cja4d00 c332z52 c19yvr79 c1k9d2dn cf4etin c1qcvcv0 cyy6gjx cviaych c1l3faaj c1qdz93x c1yknwe c16brilo c8blu03 c1c30yjp cyqya42 cacagee c1if0l5b c1uxmloe cvvbs3v cd2ve3n ciotgsx c1dip7do c84sq19 c16obloc c1fzn2gy c1417cfe c1r3o45q c1jqq980 c1nsjwms c1ravk58 chlw4iq c3we96t c1ao5iu5 cfho87c ctipp42 c17s0v09 cy1wof3 c1wjjhri c1qhiez9">
+className="chs43hq c14kkg6c cmi5gnt cvfg8e c1uqhfdn c1ksxoi4 c1mlz7eb cihupgk cv5orsw cqciqil c1m1w67o c1r16s9c c1h43rey c1x3u2y c1l3fu6x czx4ung c1b1ht1h cja4d00 c332z52 cefn432 c1k9d2dn cf4etin c1qcvcv0 cyy6gjx cviaych c1l3faaj c1qdz93x c1yknwe c16brilo c8blu03 c1c30yjp cyqya42 cacagee c1if0l5b c1uxmloe cvvbs3v cd2ve3n ciotgsx c1dip7do c84sq19 c16obloc c1fzn2gy c1417cfe c1r3o45q c1jqq980 c1nsjwms c1ravk58 chlw4iq c3we96t c1ao5iu5 cfho87c ctipp42 c17s0v09 cy1wof3 c1wjjhri c1qhiez9">
 {"Get in Touch"}
 </Link>
 </Box>

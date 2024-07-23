@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "ffa4a563-8567-4c6b-826d-368b2e5f9b3a",
+    "id": "75c90c19-a9f8-47cc-8f57-f8828f7c6329",
     "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
-    "version": 1807,
-    "createdAt": "2024-07-22T09:30:40.881",
-    "updatedAt": "2024-07-22T09:30:40.881",
+    "version": 1829,
+    "createdAt": "2024-07-23T17:26:47.378",
+    "updatedAt": "2024-07-23T17:26:47.378",
     "pages": {
       "meta": {
         "siteName": "Olive AI - Human-Like AI Voice Agents",
@@ -13524,6 +13524,186 @@
             "g": 255,
             "b": 255,
             "alpha": 1
+          }
+        }
+      ],
+      [
+        "SGJYtWmPNdRDy336LyI02:XrZ__rGVO5lpO_eWqj-HM:width:",
+        {
+          "breakpointId": "XrZ__rGVO5lpO_eWqj-HM",
+          "styleSourceId": "SGJYtWmPNdRDy336LyI02",
+          "property": "width",
+          "value": {
+            "type": "unit",
+            "unit": "em",
+            "value": 10
+          }
+        }
+      ],
+      [
+        "mMmpNLsEM9UONv3r_LPTV:XrZ__rGVO5lpO_eWqj-HM:width:",
+        {
+          "breakpointId": "XrZ__rGVO5lpO_eWqj-HM",
+          "styleSourceId": "mMmpNLsEM9UONv3r_LPTV",
+          "property": "width",
+          "value": {
+            "type": "unit",
+            "unit": "em",
+            "value": 6
+          }
+        }
+      ],
+      [
+        "mMmpNLsEM9UONv3r_LPTV:XrZ__rGVO5lpO_eWqj-HM:height:",
+        {
+          "breakpointId": "XrZ__rGVO5lpO_eWqj-HM",
+          "styleSourceId": "mMmpNLsEM9UONv3r_LPTV",
+          "property": "height",
+          "value": {
+            "type": "unit",
+            "unit": "em",
+            "value": 3
+          }
+        }
+      ],
+      [
+        "mMmpNLsEM9UONv3r_LPTV:XrZ__rGVO5lpO_eWqj-HM:paddingBottom:",
+        {
+          "breakpointId": "XrZ__rGVO5lpO_eWqj-HM",
+          "styleSourceId": "mMmpNLsEM9UONv3r_LPTV",
+          "property": "paddingBottom",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "mMmpNLsEM9UONv3r_LPTV:XrZ__rGVO5lpO_eWqj-HM:paddingTop:",
+        {
+          "breakpointId": "XrZ__rGVO5lpO_eWqj-HM",
+          "styleSourceId": "mMmpNLsEM9UONv3r_LPTV",
+          "property": "paddingTop",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "mMmpNLsEM9UONv3r_LPTV:XrZ__rGVO5lpO_eWqj-HM:textAlign:",
+        {
+          "breakpointId": "XrZ__rGVO5lpO_eWqj-HM",
+          "styleSourceId": "mMmpNLsEM9UONv3r_LPTV",
+          "property": "textAlign",
+          "value": {
+            "type": "keyword",
+            "value": "center"
+          }
+        }
+      ],
+      [
+        "mMmpNLsEM9UONv3r_LPTV:XrZ__rGVO5lpO_eWqj-HM:lineHeight:",
+        {
+          "breakpointId": "XrZ__rGVO5lpO_eWqj-HM",
+          "styleSourceId": "mMmpNLsEM9UONv3r_LPTV",
+          "property": "lineHeight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 3
+          }
+        }
+      ],
+      [
+        "mMmpNLsEM9UONv3r_LPTV:rtcceOEdwnSteeFyDpHgt:paddingTop:",
+        {
+          "breakpointId": "rtcceOEdwnSteeFyDpHgt",
+          "styleSourceId": "mMmpNLsEM9UONv3r_LPTV",
+          "property": "paddingTop",
+          "value": {
+            "type": "unit",
+            "value": 15,
+            "unit": "px"
+          }
+        }
+      ],
+      [
+        "mMmpNLsEM9UONv3r_LPTV:rtcceOEdwnSteeFyDpHgt:backgroundColor::hover",
+        {
+          "breakpointId": "rtcceOEdwnSteeFyDpHgt",
+          "styleSourceId": "mMmpNLsEM9UONv3r_LPTV",
+          "state": ":hover",
+          "property": "backgroundColor",
+          "value": {
+            "type": "rgb",
+            "r": 20,
+            "g": 162,
+            "b": 71,
+            "alpha": 1
+          }
+        }
+      ],
+      [
+        "mMmpNLsEM9UONv3r_LPTV:rtcceOEdwnSteeFyDpHgt:color::hover",
+        {
+          "breakpointId": "rtcceOEdwnSteeFyDpHgt",
+          "styleSourceId": "mMmpNLsEM9UONv3r_LPTV",
+          "state": ":hover",
+          "property": "color",
+          "value": {
+            "type": "rgb",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "alpha": 1
+          }
+        }
+      ],
+      [
+        "mMmpNLsEM9UONv3r_LPTV:XrZ__rGVO5lpO_eWqj-HM:backgroundColor::hover",
+        {
+          "breakpointId": "XrZ__rGVO5lpO_eWqj-HM",
+          "styleSourceId": "mMmpNLsEM9UONv3r_LPTV",
+          "state": ":hover",
+          "property": "backgroundColor",
+          "value": {
+            "type": "rgb",
+            "r": 20,
+            "g": 162,
+            "b": 71,
+            "alpha": 1
+          }
+        }
+      ],
+      [
+        "mMmpNLsEM9UONv3r_LPTV:XrZ__rGVO5lpO_eWqj-HM:color::hover",
+        {
+          "breakpointId": "XrZ__rGVO5lpO_eWqj-HM",
+          "styleSourceId": "mMmpNLsEM9UONv3r_LPTV",
+          "state": ":hover",
+          "property": "color",
+          "value": {
+            "type": "rgb",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "alpha": 1
+          }
+        }
+      ],
+      [
+        "mMmpNLsEM9UONv3r_LPTV:NT8PZS0LqWI6gFCn4hc9C:width:",
+        {
+          "breakpointId": "NT8PZS0LqWI6gFCn4hc9C",
+          "styleSourceId": "mMmpNLsEM9UONv3r_LPTV",
+          "property": "width",
+          "value": {
+            "type": "unit",
+            "unit": "em",
+            "value": 8
           }
         }
       ]
