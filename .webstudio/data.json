@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "75c90c19-a9f8-47cc-8f57-f8828f7c6329",
+    "id": "1f5ea1fd-03da-4ea0-982e-3e36add4aeeb",
     "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
-    "version": 1829,
-    "createdAt": "2024-07-23T17:26:47.378",
-    "updatedAt": "2024-07-23T17:26:47.378",
+    "version": 1869,
+    "createdAt": "2024-07-24T18:13:02.512",
+    "updatedAt": "2024-07-24T18:13:02.512",
     "pages": {
       "meta": {
         "siteName": "Olive AI - Human-Like AI Voice Agents",
@@ -8726,8 +8726,8 @@
       [
         "-t_ZWdLAJ6oX-jq9MuskB:yoGZNS9YONZO_Covc643s:backgroundAttachment:",
         {
-          "styleSourceId": "-t_ZWdLAJ6oX-jq9MuskB",
           "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "-t_ZWdLAJ6oX-jq9MuskB",
           "property": "backgroundAttachment",
           "value": {
             "type": "layers",
@@ -8743,15 +8743,15 @@
       [
         "-t_ZWdLAJ6oX-jq9MuskB:yoGZNS9YONZO_Covc643s:backgroundClip:",
         {
-          "styleSourceId": "-t_ZWdLAJ6oX-jq9MuskB",
           "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "-t_ZWdLAJ6oX-jq9MuskB",
           "property": "backgroundClip",
           "value": {
             "type": "layers",
             "value": [
               {
                 "type": "keyword",
-                "value": "border-box"
+                "value": "padding-box"
               }
             ]
           }
@@ -8760,8 +8760,8 @@
       [
         "-t_ZWdLAJ6oX-jq9MuskB:yoGZNS9YONZO_Covc643s:backgroundBlendMode:",
         {
-          "styleSourceId": "-t_ZWdLAJ6oX-jq9MuskB",
           "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "-t_ZWdLAJ6oX-jq9MuskB",
           "property": "backgroundBlendMode",
           "value": {
             "type": "layers",
@@ -8777,8 +8777,8 @@
       [
         "-t_ZWdLAJ6oX-jq9MuskB:yoGZNS9YONZO_Covc643s:backgroundImage:",
         {
-          "styleSourceId": "-t_ZWdLAJ6oX-jq9MuskB",
           "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "-t_ZWdLAJ6oX-jq9MuskB",
           "property": "backgroundImage",
           "value": {
             "type": "layers",
@@ -8787,7 +8787,7 @@
                 "type": "image",
                 "value": {
                   "type": "asset",
-                  "value": "c96cb43202e2c1e79a9054d0730db7ae1ab1dac3e30cce783ce148aeaf8f5158"
+                  "value": "7819a43250730647d1c30badb2322e94d6a5db7fed6f11b0bc49c258f30462ef"
                 }
               }
             ]
@@ -8797,8 +8797,8 @@
       [
         "-t_ZWdLAJ6oX-jq9MuskB:yoGZNS9YONZO_Covc643s:backgroundOrigin:",
         {
-          "styleSourceId": "-t_ZWdLAJ6oX-jq9MuskB",
           "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "-t_ZWdLAJ6oX-jq9MuskB",
           "property": "backgroundOrigin",
           "value": {
             "type": "layers",
@@ -8814,16 +8814,16 @@
       [
         "-t_ZWdLAJ6oX-jq9MuskB:yoGZNS9YONZO_Covc643s:backgroundPositionX:",
         {
-          "styleSourceId": "-t_ZWdLAJ6oX-jq9MuskB",
           "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "-t_ZWdLAJ6oX-jq9MuskB",
           "property": "backgroundPositionX",
           "value": {
             "type": "layers",
             "value": [
               {
                 "type": "unit",
-                "unit": "%",
-                "value": 0
+                "value": 0,
+                "unit": "%"
               }
             ]
           }
@@ -8832,16 +8832,16 @@
       [
         "-t_ZWdLAJ6oX-jq9MuskB:yoGZNS9YONZO_Covc643s:backgroundPositionY:",
         {
-          "styleSourceId": "-t_ZWdLAJ6oX-jq9MuskB",
           "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "-t_ZWdLAJ6oX-jq9MuskB",
           "property": "backgroundPositionY",
           "value": {
             "type": "layers",
             "value": [
               {
                 "type": "unit",
-                "unit": "%",
-                "value": 0
+                "value": 0,
+                "unit": "%"
               }
             ]
           }
@@ -8850,8 +8850,8 @@
       [
         "-t_ZWdLAJ6oX-jq9MuskB:yoGZNS9YONZO_Covc643s:backgroundRepeat:",
         {
-          "styleSourceId": "-t_ZWdLAJ6oX-jq9MuskB",
           "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "-t_ZWdLAJ6oX-jq9MuskB",
           "property": "backgroundRepeat",
           "value": {
             "type": "layers",
@@ -8867,8 +8867,8 @@
       [
         "-t_ZWdLAJ6oX-jq9MuskB:yoGZNS9YONZO_Covc643s:backgroundSize:",
         {
-          "styleSourceId": "-t_ZWdLAJ6oX-jq9MuskB",
           "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "-t_ZWdLAJ6oX-jq9MuskB",
           "property": "backgroundSize",
           "value": {
             "type": "layers",
@@ -13401,7 +13401,7 @@
           "property": "marginBottom",
           "value": {
             "type": "unit",
-            "value": 0,
+            "value": 20,
             "unit": "px"
           }
         }
@@ -13704,6 +13704,201 @@
             "type": "unit",
             "unit": "em",
             "value": 8
+          }
+        }
+      ],
+      [
+        "ckuNaQyShe7DeDQmpwNEr:yoGZNS9YONZO_Covc643s:display:",
+        {
+          "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "ckuNaQyShe7DeDQmpwNEr",
+          "property": "display",
+          "value": {
+            "type": "keyword",
+            "value": "flex"
+          }
+        }
+      ],
+      [
+        "ckuNaQyShe7DeDQmpwNEr:yoGZNS9YONZO_Covc643s:alignItems:",
+        {
+          "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "ckuNaQyShe7DeDQmpwNEr",
+          "property": "alignItems",
+          "value": {
+            "type": "keyword",
+            "value": "center"
+          }
+        }
+      ],
+      [
+        "ckuNaQyShe7DeDQmpwNEr:yoGZNS9YONZO_Covc643s:justifyContent:",
+        {
+          "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "ckuNaQyShe7DeDQmpwNEr",
+          "property": "justifyContent",
+          "value": {
+            "type": "keyword",
+            "value": "center"
+          }
+        }
+      ],
+      [
+        "UjMZeclcGNYykWQNCnlku:yoGZNS9YONZO_Covc643s:color:",
+        {
+          "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "UjMZeclcGNYykWQNCnlku",
+          "property": "color",
+          "value": {
+            "type": "rgb",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "alpha": 1
+          }
+        }
+      ],
+      [
+        "UjMZeclcGNYykWQNCnlku:yoGZNS9YONZO_Covc643s:fontFamily:",
+        {
+          "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "UjMZeclcGNYykWQNCnlku",
+          "property": "fontFamily",
+          "value": {
+            "type": "fontFamily",
+            "value": [
+              "DM Sans"
+            ]
+          }
+        }
+      ],
+      [
+        "UjMZeclcGNYykWQNCnlku:yoGZNS9YONZO_Covc643s:textAlign:",
+        {
+          "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "UjMZeclcGNYykWQNCnlku",
+          "property": "textAlign",
+          "value": {
+            "type": "keyword",
+            "value": "center"
+          }
+        }
+      ],
+      [
+        "ckuNaQyShe7DeDQmpwNEr:yoGZNS9YONZO_Covc643s:marginTop:",
+        {
+          "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "ckuNaQyShe7DeDQmpwNEr",
+          "property": "marginTop",
+          "value": {
+            "type": "unit",
+            "value": 0,
+            "unit": "px"
+          }
+        }
+      ],
+      [
+        "ckuNaQyShe7DeDQmpwNEr:yoGZNS9YONZO_Covc643s:paddingTop:",
+        {
+          "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "ckuNaQyShe7DeDQmpwNEr",
+          "property": "paddingTop",
+          "value": {
+            "type": "unit",
+            "value": 0,
+            "unit": "px"
+          }
+        }
+      ],
+      [
+        "r8Pt2sK5iMTPomcoc8Kkh:yoGZNS9YONZO_Covc643s:color:",
+        {
+          "styleSourceId": "r8Pt2sK5iMTPomcoc8Kkh",
+          "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "property": "color",
+          "value": {
+            "type": "rgb",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "alpha": 1
+          }
+        }
+      ],
+      [
+        "r8Pt2sK5iMTPomcoc8Kkh:yoGZNS9YONZO_Covc643s:fontFamily:",
+        {
+          "styleSourceId": "r8Pt2sK5iMTPomcoc8Kkh",
+          "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "property": "fontFamily",
+          "value": {
+            "type": "fontFamily",
+            "value": [
+              "DM Sans"
+            ]
+          }
+        }
+      ],
+      [
+        "r8Pt2sK5iMTPomcoc8Kkh:yoGZNS9YONZO_Covc643s:textAlign:",
+        {
+          "styleSourceId": "r8Pt2sK5iMTPomcoc8Kkh",
+          "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "property": "textAlign",
+          "value": {
+            "type": "keyword",
+            "value": "center"
+          }
+        }
+      ],
+      [
+        "ckuNaQyShe7DeDQmpwNEr:yoGZNS9YONZO_Covc643s:flexDirection:",
+        {
+          "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "ckuNaQyShe7DeDQmpwNEr",
+          "property": "flexDirection",
+          "value": {
+            "type": "keyword",
+            "value": "column"
+          }
+        }
+      ],
+      [
+        "r8Pt2sK5iMTPomcoc8Kkh:yoGZNS9YONZO_Covc643s:paddingTop:",
+        {
+          "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "r8Pt2sK5iMTPomcoc8Kkh",
+          "property": "paddingTop",
+          "value": {
+            "type": "unit",
+            "value": 10,
+            "unit": "px"
+          }
+        }
+      ],
+      [
+        "UjMZeclcGNYykWQNCnlku:yoGZNS9YONZO_Covc643s:paddingTop:",
+        {
+          "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "UjMZeclcGNYykWQNCnlku",
+          "property": "paddingTop",
+          "value": {
+            "type": "unit",
+            "value": 10,
+            "unit": "px"
+          }
+        }
+      ],
+      [
+        "r8Pt2sK5iMTPomcoc8Kkh:yoGZNS9YONZO_Covc643s:paddingBottom:",
+        {
+          "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "r8Pt2sK5iMTPomcoc8Kkh",
+          "property": "paddingBottom",
+          "value": {
+            "type": "unit",
+            "value": 10,
+            "unit": "px"
           }
         }
       ]
@@ -14301,6 +14496,27 @@
         {
           "type": "local",
           "id": "mMmpNLsEM9UONv3r_LPTV"
+        }
+      ],
+      [
+        "ckuNaQyShe7DeDQmpwNEr",
+        {
+          "type": "local",
+          "id": "ckuNaQyShe7DeDQmpwNEr"
+        }
+      ],
+      [
+        "UjMZeclcGNYykWQNCnlku",
+        {
+          "type": "local",
+          "id": "UjMZeclcGNYykWQNCnlku"
+        }
+      ],
+      [
+        "r8Pt2sK5iMTPomcoc8Kkh",
+        {
+          "type": "local",
+          "id": "r8Pt2sK5iMTPomcoc8Kkh"
         }
       ]
     ],
@@ -15030,6 +15246,33 @@
             "ijY7kzhLtNaFQn5yncdwQ"
           ]
         }
+      ],
+      [
+        "zgrnL543d9fJKd7IkGQVw",
+        {
+          "instanceId": "zgrnL543d9fJKd7IkGQVw",
+          "values": [
+            "ckuNaQyShe7DeDQmpwNEr"
+          ]
+        }
+      ],
+      [
+        "s8HjZLfa1xVL5UqS8uN60",
+        {
+          "instanceId": "s8HjZLfa1xVL5UqS8uN60",
+          "values": [
+            "UjMZeclcGNYykWQNCnlku"
+          ]
+        }
+      ],
+      [
+        "ZGnJsybHcpz2kCyM8PAFu",
+        {
+          "instanceId": "ZGnJsybHcpz2kCyM8PAFu",
+          "values": [
+            "r8Pt2sK5iMTPomcoc8Kkh"
+          ]
+        }
       ]
     ],
     "props": [
@@ -15464,6 +15707,10 @@
             {
               "type": "id",
               "value": "0PKopu7K1Vx9-M_LqvGP8"
+            },
+            {
+              "type": "id",
+              "value": "zgrnL543d9fJKd7IkGQVw"
             }
           ]
         }
@@ -16834,6 +17081,53 @@
             {
               "type": "text",
               "value": "Calls made through Olive are charged on the basis of minutes of connected talk-time. Pricing starts at Rs. 8 per minute. Calls are billed to the second."
+            }
+          ]
+        }
+      ],
+      [
+        "zgrnL543d9fJKd7IkGQVw",
+        {
+          "type": "instance",
+          "id": "zgrnL543d9fJKd7IkGQVw",
+          "component": "Box",
+          "label": "Footer",
+          "children": [
+            {
+              "type": "id",
+              "value": "s8HjZLfa1xVL5UqS8uN60"
+            },
+            {
+              "type": "id",
+              "value": "ZGnJsybHcpz2kCyM8PAFu"
+            }
+          ]
+        }
+      ],
+      [
+        "s8HjZLfa1xVL5UqS8uN60",
+        {
+          "type": "instance",
+          "id": "s8HjZLfa1xVL5UqS8uN60",
+          "component": "Text",
+          "children": [
+            {
+              "type": "text",
+              "value": "© 2024 Reboot Labs"
+            }
+          ]
+        }
+      ],
+      [
+        "ZGnJsybHcpz2kCyM8PAFu",
+        {
+          "type": "instance",
+          "id": "ZGnJsybHcpz2kCyM8PAFu",
+          "component": "Text",
+          "children": [
+            {
+              "type": "text",
+              "value": "Bangalore, Karnataka, India"
             }
           ]
         }

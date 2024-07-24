@@ -23,7 +23,7 @@ import { Accordion as Accordion, AccordionItem as AccordionItem, AccordionHeader
         [{"id":"eee6afef9be6c51ba4a4cc7cc2ab4f78dbdac6a3b39419633b8d3481e0736182","name":"DMSans-VariableFont_opsz_wght_OEVjbFZNCsBcnjDHxiCS5.ttf","description":null,"projectId":"c0165f10-e497-48ee-a8b9-2036941af185","size":238984,"type":"font","createdAt":"2024-07-19T09:47:07.584Z","format":"ttf","meta":{"family":"DM Sans","variationAxes":{"opsz":{"name":"Optical size","min":9,"default":9,"max":40},"wght":{"name":"Weight","min":100,"default":400,"max":1000}}}},{"id":"b9bb54388548f9896dca541eb2c236a92d0c6d11e9f206437fda1f6a7d3358b4","name":"DMSans-Italic-VariableFont_opsz_wght_BGIhD0HLLy2axR97Zl4m9.ttf","description":null,"projectId":"c0165f10-e497-48ee-a8b9-2036941af185","size":283524,"type":"font","createdAt":"2024-07-19T09:47:03.536Z","format":"ttf","meta":{"family":"DM Sans","variationAxes":{"opsz":{"name":"Optical size","min":9,"default":9,"max":40},"wght":{"name":"Weight","min":100,"default":400,"max":1000}}}},{"id":"8130560da30ad6f19994fd410f71985acafca1576592235161ffb75757635594","name":"Lato-ThinItalic_rmtgv6JRQ9RPeb__7bqEf.ttf","description":null,"projectId":"c0165f10-e497-48ee-a8b9-2036941af185","size":48864,"type":"font","createdAt":"2024-07-19T06:40:00.390Z","format":"ttf","meta":{"family":"Lato","style":"italic","weight":100}},{"id":"fee1bd1daaa5efbcb93c8d074c61378dce155df0d32e00199b6a9457e427bc45","name":"Lato-Thin_BPiltVs98iypXV3s7CgNu.ttf","description":null,"projectId":"c0165f10-e497-48ee-a8b9-2036941af185","size":69976,"type":"font","createdAt":"2024-07-19T06:39:57.819Z","format":"ttf","meta":{"family":"Lato","style":"normal","weight":100}},{"id":"e82542aed8293f49fc83c4aaea566b1f6b4fc7a9ab5da11e6fb9bc0973b5324b","name":"Lato-Regular_SNUXzXRZs0P3nHXZm6xPh.ttf","description":null,"projectId":"c0165f10-e497-48ee-a8b9-2036941af185","size":75152,"type":"font","createdAt":"2024-07-19T06:39:55.855Z","format":"ttf","meta":{"family":"Lato","style":"normal","weight":400}},{"id":"6d5176f3babd0ccba79845088f8e9ede5dbb7b408fb40161963daa95a71cef2e","name":"Lato-LightItalic_QcdFAQ0jaedLNjKHwkCdv.ttf","description":null,"projectId":"c0165f10-e497-48ee-a8b9-2036941af185","size":49080,"type":"font","createdAt":"2024-07-19T06:39:53.885Z","format":"ttf","meta":{"family":"Lato","style":"italic","weight":300}},{"id":"fb5343c4375c38b1c3026336d355335e6a5b8531cbc9c6506eb4b6f6d67c152f","name":"Lato-Light_98ZXR2HIfnWk1iAs0hGxa.ttf","description":null,"projectId":"c0165f10-e497-48ee-a8b9-2036941af185","size":77208,"type":"font","createdAt":"2024-07-19T06:39:51.156Z","format":"ttf","meta":{"family":"Lato","style":"normal","weight":300}},{"id":"3be26bf6973f49df6a7dfd130041017354342bfbb023e6b9610b42daeba6de34","name":"Lato-Italic_JOJm9pJj4kjju_vp7Yfn-.ttf","description":null,"projectId":"c0165f10-e497-48ee-a8b9-2036941af185","size":75792,"type":"font","createdAt":"2024-07-19T06:39:48.838Z","format":"ttf","meta":{"family":"Lato","style":"italic","weight":900}},{"id":"e38611f4c0ff3251a58fe751991c39784d8f9be420b004891e0b9277228ec32f","name":"Lato-BoldItalic_kw8Fo9E8TTpBip2vo_79w.ttf","description":null,"projectId":"c0165f10-e497-48ee-a8b9-2036941af185","size":77732,"type":"font","createdAt":"2024-07-19T06:39:44.867Z","format":"ttf","meta":{"family":"Lato","style":"italic","weight":700}},{"id":"d7f0b7f2570f2f28b504da1181b4d71b1420b10be2c4fd690927f1c8ee3b19c3","name":"Lato-Bold_3lSA-DdNo1Ze7crv1BhBm.ttf","description":null,"projectId":"c0165f10-e497-48ee-a8b9-2036941af185","size":73332,"type":"font","createdAt":"2024-07-19T06:39:43.072Z","format":"ttf","meta":{"family":"Lato","style":"normal","weight":700}},{"id":"e1eb271de3a571d566e534d3e521cfa46becfc789821257bc347455167d586f3","name":"Lato-BlackItalic_50nnHrFS16RvjvqlHDDVP.ttf","description":null,"projectId":"c0165f10-e497-48ee-a8b9-2036941af185","size":72000,"type":"font","createdAt":"2024-07-19T06:39:40.803Z","format":"ttf","meta":{"family":"Lato","style":"italic","weight":900}},{"id":"abf64cfa14645043a7c33f76435125f8b3de79c510adb938a1c16085518d4341","name":"Lato-Black_xhhMPRPmy205lrqo3Bn_1.ttf","description":null,"projectId":"c0165f10-e497-48ee-a8b9-2036941af185","size":69500,"type":"font","createdAt":"2024-07-19T06:39:38.279Z","format":"ttf","meta":{"family":"Lato","style":"normal","weight":900}}]
 
       export const pageBackgroundImageAssets: ImageAsset[] =
-        [{"id":"c96cb43202e2c1e79a9054d0730db7ae1ab1dac3e30cce783ce148aeaf8f5158","name":"Group_1321314608_5OgZtYfALSEhCmCj1E8_g.png","description":null,"projectId":"c0165f10-e497-48ee-a8b9-2036941af185","size":2067483,"type":"image","format":"png","createdAt":"2024-07-19T15:15:01.081Z","meta":{"width":1920,"height":1352}},{"id":"7819a43250730647d1c30badb2322e94d6a5db7fed6f11b0bc49c258f30462ef","name":"Group_1321314605_19kBxuyzgSCx08n5b5Bxi.png","description":null,"projectId":"c0165f10-e497-48ee-a8b9-2036941af185","size":2796871,"type":"image","format":"png","createdAt":"2024-07-19T14:59:26.403Z","meta":{"width":2930,"height":1239}}]
+        [{"id":"7819a43250730647d1c30badb2322e94d6a5db7fed6f11b0bc49c258f30462ef","name":"Group_1321314605_19kBxuyzgSCx08n5b5Bxi.png","description":null,"projectId":"c0165f10-e497-48ee-a8b9-2036941af185","size":2796871,"type":"image","format":"png","createdAt":"2024-07-19T14:59:26.403Z","meta":{"width":2930,"height":1239}}]
 
       
             
@@ -333,7 +333,7 @@ className="c1x3u2y c1tbqsf8 c1dip7do cdymj7r c1intses c123bkg1 c1fb749m cuoraao 
 <Box
 data-ws-id="0PKopu7K1Vx9-M_LqvGP8"
 data-ws-component="Box"
-className="c1twnoba c1nlyjgt c1j59bld c1vy6a0n cz0kds6 cb5ijcy cee2zhg cmf3743 ceiuk84 cmyvz9y cwrmgdo c1cjt24l c1pow8ya cknz58g cw8i48d cbv1kf c7p21o8 czx4ung">
+className="c1twnoba c1nlyjgt c1j59bld c1vy6a0n cz0kds6 c1p60roq cee2zhg c1coyq83 ceiuk84 cmyvz9y cwrmgdo c1cjt24l c1pow8ya cknz58g cou797o cbv1kf c7p21o8 czx4ung">
 <Heading
 data-ws-id="2IfOCgOst7msO5cTEkKVz"
 data-ws-component="Heading"
@@ -537,6 +537,23 @@ className="cbdd4es cc8vwx2 clchyxc c4wrwq2 c6yvut1 c1ra5clk cqbyyv8 c1p3bon9 c1q
 </AccordionItem>
 </Accordion>
 </Box>
+</Box>
+<Box
+data-ws-id="zgrnL543d9fJKd7IkGQVw"
+data-ws-component="Box"
+className="c1twnoba c1vy6a0n c1j59bld c1cvpbl0 cqr1i4x c1nlyjgt">
+<Text
+data-ws-id="s8HjZLfa1xVL5UqS8uN60"
+data-ws-component="Text"
+className="c1tbqsf8 c7jjez7 c1dip7do c1jznqq4">
+{"© 2024 Reboot Labs"}
+</Text>
+<Text
+data-ws-id="ZGnJsybHcpz2kCyM8PAFu"
+data-ws-component="Text"
+className="c1tbqsf8 c7jjez7 c1dip7do c1jznqq4 c1p8y3bj">
+{"Bangalore, Karnataka, India"}
+</Text>
 </Box>
 </Body>
 }
