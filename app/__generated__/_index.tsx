@@ -276,7 +276,7 @@ className="c7jjez7 c19c7pm3 c1dip7do cqfbd4z c1jznqq4 cov2qju c1i5c3am">
 <Italic
 data-ws-id="VBI7y-4-yfZydUYEIlHlP"
 data-ws-component="Italic"
-className="cdqm74o">
+className="cdqm74o cgyzrxo">
 {"0 set-up time"}
 </Italic>
 </Heading>

@@ -687,6 +687,9 @@ html {margin: 0; display: grid; min-height: 100%}
   .c1fb749m {
     padding-top: 30px
   }
+  .cgyzrxo {
+    text-wrap-mode: nowrap
+  }
   .chs43hq {
     width: auto
   }
@@ -830,9 +833,6 @@ html {margin: 0; display: grid; min-height: 100%}
   }
   .c1q3o1u3:hover {
     background-color: rgba(20, 162, 71, 1)
-  }
-  .cgyzrxo {
-    text-wrap-mode: nowrap
   }
   .c1p60roq {
     -webkit-background-clip: padding-box

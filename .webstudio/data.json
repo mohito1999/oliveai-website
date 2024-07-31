@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "1f5ea1fd-03da-4ea0-982e-3e36add4aeeb",
+    "id": "55d112cc-bab6-4da3-9b2d-76176874e1de",
     "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
-    "version": 1869,
-    "createdAt": "2024-07-24T18:13:02.512",
-    "updatedAt": "2024-07-24T18:13:02.512",
+    "version": 1871,
+    "createdAt": "2024-07-31T14:14:41.843",
+    "updatedAt": "2024-07-31T14:14:41.843",
     "pages": {
       "meta": {
         "siteName": "Olive AI - Human-Like AI Voice Agents",
@@ -4059,13 +4059,13 @@
       [
         "YMEkRTbLrOZNS1mFmNb_O:yoGZNS9YONZO_Covc643s:marginTop:",
         {
-          "styleSourceId": "YMEkRTbLrOZNS1mFmNb_O",
           "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "YMEkRTbLrOZNS1mFmNb_O",
           "property": "marginTop",
           "value": {
             "type": "unit",
-            "unit": "em",
-            "value": -1
+            "value": -1,
+            "unit": "em"
           }
         }
       ],
@@ -13901,6 +13901,18 @@
             "unit": "px"
           }
         }
+      ],
+      [
+        "wju6jip46UUM5EByn2qXj:yoGZNS9YONZO_Covc643s:textWrapMode:",
+        {
+          "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "wju6jip46UUM5EByn2qXj",
+          "property": "textWrapMode",
+          "value": {
+            "type": "keyword",
+            "value": "nowrap"
+          }
+        }
       ]
     ],
     "styleSources": [
@@ -17134,6 +17146,7 @@
       ]
     ],
     "deployment": {
+      "destination": "saas",
       "domains": [],
       "projectDomain": "olive-ai-landing-page-f2j3e"
     },
