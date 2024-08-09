@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "55d112cc-bab6-4da3-9b2d-76176874e1de",
+    "id": "a5f084d3-5d54-4902-a7d2-7bacfb9ef18f",
     "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
-    "version": 1871,
-    "createdAt": "2024-07-31T14:14:41.843",
-    "updatedAt": "2024-07-31T14:14:41.843",
+    "version": 1936,
+    "createdAt": "2024-08-09T17:34:48.119",
+    "updatedAt": "2024-08-09T17:34:48.119",
     "pages": {
       "meta": {
         "siteName": "Olive AI - Human-Like AI Voice Agents",
@@ -13811,6 +13811,43 @@
         }
       ],
       [
+        "ckuNaQyShe7DeDQmpwNEr:yoGZNS9YONZO_Covc643s:flexDirection:",
+        {
+          "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "ckuNaQyShe7DeDQmpwNEr",
+          "property": "flexDirection",
+          "value": {
+            "type": "keyword",
+            "value": "column"
+          }
+        }
+      ],
+      [
+        "UjMZeclcGNYykWQNCnlku:yoGZNS9YONZO_Covc643s:paddingTop:",
+        {
+          "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "UjMZeclcGNYykWQNCnlku",
+          "property": "paddingTop",
+          "value": {
+            "type": "unit",
+            "value": 10,
+            "unit": "px"
+          }
+        }
+      ],
+      [
+        "wju6jip46UUM5EByn2qXj:yoGZNS9YONZO_Covc643s:textWrapMode:",
+        {
+          "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "wju6jip46UUM5EByn2qXj",
+          "property": "textWrapMode",
+          "value": {
+            "type": "keyword",
+            "value": "nowrap"
+          }
+        }
+      ],
+      [
         "r8Pt2sK5iMTPomcoc8Kkh:yoGZNS9YONZO_Covc643s:color:",
         {
           "styleSourceId": "r8Pt2sK5iMTPomcoc8Kkh",
@@ -13852,18 +13889,6 @@
         }
       ],
       [
-        "ckuNaQyShe7DeDQmpwNEr:yoGZNS9YONZO_Covc643s:flexDirection:",
-        {
-          "breakpointId": "yoGZNS9YONZO_Covc643s",
-          "styleSourceId": "ckuNaQyShe7DeDQmpwNEr",
-          "property": "flexDirection",
-          "value": {
-            "type": "keyword",
-            "value": "column"
-          }
-        }
-      ],
-      [
         "r8Pt2sK5iMTPomcoc8Kkh:yoGZNS9YONZO_Covc643s:paddingTop:",
         {
           "breakpointId": "yoGZNS9YONZO_Covc643s",
@@ -13871,20 +13896,7 @@
           "property": "paddingTop",
           "value": {
             "type": "unit",
-            "value": 10,
-            "unit": "px"
-          }
-        }
-      ],
-      [
-        "UjMZeclcGNYykWQNCnlku:yoGZNS9YONZO_Covc643s:paddingTop:",
-        {
-          "breakpointId": "yoGZNS9YONZO_Covc643s",
-          "styleSourceId": "UjMZeclcGNYykWQNCnlku",
-          "property": "paddingTop",
-          "value": {
-            "type": "unit",
-            "value": 10,
+            "value": 7,
             "unit": "px"
           }
         }
@@ -13903,14 +13915,28 @@
         }
       ],
       [
-        "wju6jip46UUM5EByn2qXj:yoGZNS9YONZO_Covc643s:textWrapMode:",
+        "pYe8_a2gf7nyUdPK1KLOm:yoGZNS9YONZO_Covc643s:paddingTop:",
         {
           "breakpointId": "yoGZNS9YONZO_Covc643s",
-          "styleSourceId": "wju6jip46UUM5EByn2qXj",
-          "property": "textWrapMode",
+          "styleSourceId": "pYe8_a2gf7nyUdPK1KLOm",
+          "property": "paddingTop",
           "value": {
-            "type": "keyword",
-            "value": "nowrap"
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "UjMZeclcGNYykWQNCnlku:yoGZNS9YONZO_Covc643s:paddingBottom:",
+        {
+          "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "UjMZeclcGNYykWQNCnlku",
+          "property": "paddingBottom",
+          "value": {
+            "type": "unit",
+            "value": 10,
+            "unit": "px"
           }
         }
       ]
@@ -14529,6 +14555,13 @@
         {
           "type": "local",
           "id": "r8Pt2sK5iMTPomcoc8Kkh"
+        }
+      ],
+      [
+        "pYe8_a2gf7nyUdPK1KLOm",
+        {
+          "type": "local",
+          "id": "pYe8_a2gf7nyUdPK1KLOm"
         }
       ]
     ],
@@ -15285,6 +15318,15 @@
             "r8Pt2sK5iMTPomcoc8Kkh"
           ]
         }
+      ],
+      [
+        "UXnArk1TwD1wJtTlsdps7",
+        {
+          "instanceId": "UXnArk1TwD1wJtTlsdps7",
+          "values": [
+            "pYe8_a2gf7nyUdPK1KLOm"
+          ]
+        }
       ]
     ],
     "props": [
@@ -15676,6 +15718,16 @@
           "name": "data-ws-show",
           "type": "boolean",
           "value": false
+        }
+      ],
+      [
+        "bM8PYP4W8JwqgfSu6-LoN",
+        {
+          "id": "bM8PYP4W8JwqgfSu6-LoN",
+          "instanceId": "UXnArk1TwD1wJtTlsdps7",
+          "name": "code",
+          "type": "string",
+          "value": "<a href=\"https://elevenlabs.io/text-to-speech\">\n<img src=\"https://apps.webstudio.is/cgi/image/elevenlabs-grants-logo_8wognuqUaRxOP7lElHjrR.png?width=128&amp;quality=80&amp;format=auto\" alt=\"Text to Speech\" style=\"width:150px\">\n</a>"
         }
       ]
     ],
@@ -17111,6 +17163,10 @@
             },
             {
               "type": "id",
+              "value": "UXnArk1TwD1wJtTlsdps7"
+            },
+            {
+              "type": "id",
               "value": "ZGnJsybHcpz2kCyM8PAFu"
             }
           ]
@@ -17143,6 +17199,15 @@
             }
           ]
         }
+      ],
+      [
+        "UXnArk1TwD1wJtTlsdps7",
+        {
+          "type": "instance",
+          "id": "UXnArk1TwD1wJtTlsdps7",
+          "component": "HtmlEmbed",
+          "children": []
+        }
       ]
     ],
     "deployment": {
@@ -17174,90 +17239,6 @@
   ],
   "assets": [
     {
-      "id": "c96cb43202e2c1e79a9054d0730db7ae1ab1dac3e30cce783ce148aeaf8f5158",
-      "name": "Group_1321314608_5OgZtYfALSEhCmCj1E8_g.png",
-      "description": null,
-      "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
-      "size": 2067483,
-      "type": "image",
-      "format": "png",
-      "createdAt": "2024-07-19T15:15:01.081Z",
-      "meta": {
-        "width": 1920,
-        "height": 1352
-      }
-    },
-    {
-      "id": "7819a43250730647d1c30badb2322e94d6a5db7fed6f11b0bc49c258f30462ef",
-      "name": "Group_1321314605_19kBxuyzgSCx08n5b5Bxi.png",
-      "description": null,
-      "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
-      "size": 2796871,
-      "type": "image",
-      "format": "png",
-      "createdAt": "2024-07-19T14:59:26.403Z",
-      "meta": {
-        "width": 2930,
-        "height": 1239
-      }
-    },
-    {
-      "id": "bf526d0351342f7ae54401fab7d06e564b1383a857ee1a389f38405c7b3c9ed8",
-      "name": "Group_1321314607_WQ6LIb7iBXgMfwE_iF1vz.png",
-      "description": null,
-      "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
-      "size": 6285,
-      "type": "image",
-      "format": "png",
-      "createdAt": "2024-07-19T14:55:57.584Z",
-      "meta": {
-        "width": 195,
-        "height": 195
-      }
-    },
-    {
-      "id": "80c06f61293f276577793a5a57e6a0921fe77de98f5f107993731a6e2c558d2b",
-      "name": "app_2qFciU-paI7hffR56vDYO.png",
-      "description": null,
-      "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
-      "size": 5012,
-      "type": "image",
-      "format": "png",
-      "createdAt": "2024-07-19T14:44:18.527Z",
-      "meta": {
-        "width": 148,
-        "height": 149
-      }
-    },
-    {
-      "id": "fab50e351a1565bf47e28f0244efd5ac496b75d420bed26d8fc5d6cef2cef860",
-      "name": "app_tDdcZbQbF3YkYnVtzdRui.png",
-      "description": null,
-      "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
-      "size": 6416,
-      "type": "image",
-      "format": "png",
-      "createdAt": "2024-07-19T14:43:57.987Z",
-      "meta": {
-        "width": 148,
-        "height": 149
-      }
-    },
-    {
-      "id": "efa949cedc96950ab667e3312a0db3bcb4a11b6aef13950b27b5b07f1c134973",
-      "name": "app_jFbLrs3hzanl-fnAYUo4R.png",
-      "description": null,
-      "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
-      "size": 6073,
-      "type": "image",
-      "format": "png",
-      "createdAt": "2024-07-19T14:43:41.254Z",
-      "meta": {
-        "width": 148,
-        "height": 149
-      }
-    },
-    {
       "id": "083cfdb039bae95e93ebd0782875f1a02a8d72269831d7d1d74ad4c70a11ec55",
       "name": "app_LnfgAucgRlo0xoAQ8QUWs.png",
       "description": null,
@@ -17265,64 +17246,10 @@
       "size": 3614,
       "type": "image",
       "format": "png",
-      "createdAt": "2024-07-19T14:38:05.795Z",
+      "createdAt": "2024-07-19T14:38:05.795",
       "meta": {
         "width": 111,
         "height": 112
-      }
-    },
-    {
-      "id": "eee6afef9be6c51ba4a4cc7cc2ab4f78dbdac6a3b39419633b8d3481e0736182",
-      "name": "DMSans-VariableFont_opsz_wght_OEVjbFZNCsBcnjDHxiCS5.ttf",
-      "description": null,
-      "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
-      "size": 238984,
-      "type": "font",
-      "createdAt": "2024-07-19T09:47:07.584Z",
-      "format": "ttf",
-      "meta": {
-        "family": "DM Sans",
-        "variationAxes": {
-          "opsz": {
-            "name": "Optical size",
-            "min": 9,
-            "default": 9,
-            "max": 40
-          },
-          "wght": {
-            "name": "Weight",
-            "min": 100,
-            "default": 400,
-            "max": 1000
-          }
-        }
-      }
-    },
-    {
-      "id": "b9bb54388548f9896dca541eb2c236a92d0c6d11e9f206437fda1f6a7d3358b4",
-      "name": "DMSans-Italic-VariableFont_opsz_wght_BGIhD0HLLy2axR97Zl4m9.ttf",
-      "description": null,
-      "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
-      "size": 283524,
-      "type": "font",
-      "createdAt": "2024-07-19T09:47:03.536Z",
-      "format": "ttf",
-      "meta": {
-        "family": "DM Sans",
-        "variationAxes": {
-          "opsz": {
-            "name": "Optical size",
-            "min": 9,
-            "default": 9,
-            "max": 40
-          },
-          "wght": {
-            "name": "Weight",
-            "min": 100,
-            "default": 400,
-            "max": 1000
-          }
-        }
       }
     },
     {
@@ -17333,24 +17260,54 @@
       "size": 3434,
       "type": "image",
       "format": "png",
-      "createdAt": "2024-07-19T07:56:32.540Z",
+      "createdAt": "2024-07-19T07:56:32.54",
       "meta": {
         "width": 100,
         "height": 100
       }
     },
     {
-      "id": "87b9b1bef7f7f2e1584e061671341e66d57339fbed8c72a865d02b74d37d3e85",
-      "name": "bulb_Tmx6i1hN9SBXmiLGc2u8S.png",
+      "id": "3be26bf6973f49df6a7dfd130041017354342bfbb023e6b9610b42daeba6de34",
+      "name": "Lato-Italic_JOJm9pJj4kjju_vp7Yfn-.ttf",
       "description": null,
       "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
-      "size": 13560,
+      "size": 75792,
+      "type": "font",
+      "createdAt": "2024-07-19T06:39:48.838",
+      "format": "ttf",
+      "meta": {
+        "family": "Lato",
+        "style": "italic",
+        "weight": 900
+      }
+    },
+    {
+      "id": "62b149e68d363e4c4b4a2fe7b56b55aa54b416e7995541819e6c8de43ec56041",
+      "name": "elevenlabs-grants-logo_8wognuqUaRxOP7lElHjrR.png",
+      "description": null,
+      "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
+      "size": 62347,
       "type": "image",
       "format": "png",
-      "createdAt": "2024-07-19T07:53:07.641Z",
+      "createdAt": "2024-08-09T17:14:41.276",
       "meta": {
-        "width": 512,
-        "height": 529
+        "width": 1920,
+        "height": 225
+      }
+    },
+    {
+      "id": "6d5176f3babd0ccba79845088f8e9ede5dbb7b408fb40161963daa95a71cef2e",
+      "name": "Lato-LightItalic_QcdFAQ0jaedLNjKHwkCdv.ttf",
+      "description": null,
+      "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
+      "size": 49080,
+      "type": "font",
+      "createdAt": "2024-07-19T06:39:53.885",
+      "format": "ttf",
+      "meta": {
+        "family": "Lato",
+        "style": "italic",
+        "weight": 300
       }
     },
     {
@@ -17361,10 +17318,67 @@
       "size": 17975,
       "type": "image",
       "format": "png",
-      "createdAt": "2024-07-19T07:43:59.717Z",
+      "createdAt": "2024-07-19T07:43:59.717",
       "meta": {
         "width": 554,
         "height": 258
+      }
+    },
+    {
+      "id": "745d5585332e46bffc2346c248d0d48be789ae319c9258db1ac1ae8f0dcef57a",
+      "name": "Group_1_(2)_EvgHLk8D-h4c6kGD9R0jG.png",
+      "description": null,
+      "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
+      "size": 65069,
+      "type": "image",
+      "format": "png",
+      "createdAt": "2024-07-18T20:46:55.119",
+      "meta": {
+        "width": 2846,
+        "height": 1500
+      }
+    },
+    {
+      "id": "7819a43250730647d1c30badb2322e94d6a5db7fed6f11b0bc49c258f30462ef",
+      "name": "Group_1321314605_19kBxuyzgSCx08n5b5Bxi.png",
+      "description": null,
+      "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
+      "size": 2796871,
+      "type": "image",
+      "format": "png",
+      "createdAt": "2024-07-19T14:59:26.403",
+      "meta": {
+        "width": 2930,
+        "height": 1239
+      }
+    },
+    {
+      "id": "80c06f61293f276577793a5a57e6a0921fe77de98f5f107993731a6e2c558d2b",
+      "name": "app_2qFciU-paI7hffR56vDYO.png",
+      "description": null,
+      "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
+      "size": 5012,
+      "type": "image",
+      "format": "png",
+      "createdAt": "2024-07-19T14:44:18.527",
+      "meta": {
+        "width": 148,
+        "height": 149
+      }
+    },
+    {
+      "id": "8130560da30ad6f19994fd410f71985acafca1576592235161ffb75757635594",
+      "name": "Lato-ThinItalic_rmtgv6JRQ9RPeb__7bqEf.ttf",
+      "description": null,
+      "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
+      "size": 48864,
+      "type": "font",
+      "createdAt": "2024-07-19T06:40:00.39",
+      "format": "ttf",
+      "meta": {
+        "family": "Lato",
+        "style": "italic",
+        "weight": 100
       }
     },
     {
@@ -17375,115 +17389,94 @@
       "size": 273023,
       "type": "image",
       "format": "png",
-      "createdAt": "2024-07-19T06:50:04.888Z",
+      "createdAt": "2024-07-19T06:50:04.888",
       "meta": {
         "width": 2940,
         "height": 1778
       }
     },
     {
-      "id": "8130560da30ad6f19994fd410f71985acafca1576592235161ffb75757635594",
-      "name": "Lato-ThinItalic_rmtgv6JRQ9RPeb__7bqEf.ttf",
+      "id": "87b9b1bef7f7f2e1584e061671341e66d57339fbed8c72a865d02b74d37d3e85",
+      "name": "bulb_Tmx6i1hN9SBXmiLGc2u8S.png",
       "description": null,
       "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
-      "size": 48864,
-      "type": "font",
-      "createdAt": "2024-07-19T06:40:00.390Z",
-      "format": "ttf",
+      "size": 13560,
+      "type": "image",
+      "format": "png",
+      "createdAt": "2024-07-19T07:53:07.641",
       "meta": {
-        "family": "Lato",
-        "style": "italic",
-        "weight": 100
+        "width": 512,
+        "height": 529
       }
     },
     {
-      "id": "fee1bd1daaa5efbcb93c8d074c61378dce155df0d32e00199b6a9457e427bc45",
-      "name": "Lato-Thin_BPiltVs98iypXV3s7CgNu.ttf",
+      "id": "abf64cfa14645043a7c33f76435125f8b3de79c510adb938a1c16085518d4341",
+      "name": "Lato-Black_xhhMPRPmy205lrqo3Bn_1.ttf",
       "description": null,
       "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
-      "size": 69976,
+      "size": 69500,
       "type": "font",
-      "createdAt": "2024-07-19T06:39:57.819Z",
+      "createdAt": "2024-07-19T06:39:38.279",
       "format": "ttf",
       "meta": {
         "family": "Lato",
         "style": "normal",
-        "weight": 100
-      }
-    },
-    {
-      "id": "e82542aed8293f49fc83c4aaea566b1f6b4fc7a9ab5da11e6fb9bc0973b5324b",
-      "name": "Lato-Regular_SNUXzXRZs0P3nHXZm6xPh.ttf",
-      "description": null,
-      "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
-      "size": 75152,
-      "type": "font",
-      "createdAt": "2024-07-19T06:39:55.855Z",
-      "format": "ttf",
-      "meta": {
-        "family": "Lato",
-        "style": "normal",
-        "weight": 400
-      }
-    },
-    {
-      "id": "6d5176f3babd0ccba79845088f8e9ede5dbb7b408fb40161963daa95a71cef2e",
-      "name": "Lato-LightItalic_QcdFAQ0jaedLNjKHwkCdv.ttf",
-      "description": null,
-      "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
-      "size": 49080,
-      "type": "font",
-      "createdAt": "2024-07-19T06:39:53.885Z",
-      "format": "ttf",
-      "meta": {
-        "family": "Lato",
-        "style": "italic",
-        "weight": 300
-      }
-    },
-    {
-      "id": "fb5343c4375c38b1c3026336d355335e6a5b8531cbc9c6506eb4b6f6d67c152f",
-      "name": "Lato-Light_98ZXR2HIfnWk1iAs0hGxa.ttf",
-      "description": null,
-      "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
-      "size": 77208,
-      "type": "font",
-      "createdAt": "2024-07-19T06:39:51.156Z",
-      "format": "ttf",
-      "meta": {
-        "family": "Lato",
-        "style": "normal",
-        "weight": 300
-      }
-    },
-    {
-      "id": "3be26bf6973f49df6a7dfd130041017354342bfbb023e6b9610b42daeba6de34",
-      "name": "Lato-Italic_JOJm9pJj4kjju_vp7Yfn-.ttf",
-      "description": null,
-      "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
-      "size": 75792,
-      "type": "font",
-      "createdAt": "2024-07-19T06:39:48.838Z",
-      "format": "ttf",
-      "meta": {
-        "family": "Lato",
-        "style": "italic",
         "weight": 900
       }
     },
     {
-      "id": "e38611f4c0ff3251a58fe751991c39784d8f9be420b004891e0b9277228ec32f",
-      "name": "Lato-BoldItalic_kw8Fo9E8TTpBip2vo_79w.ttf",
+      "id": "b9bb54388548f9896dca541eb2c236a92d0c6d11e9f206437fda1f6a7d3358b4",
+      "name": "DMSans-Italic-VariableFont_opsz_wght_BGIhD0HLLy2axR97Zl4m9.ttf",
       "description": null,
       "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
-      "size": 77732,
+      "size": 283524,
       "type": "font",
-      "createdAt": "2024-07-19T06:39:44.867Z",
+      "createdAt": "2024-07-19T09:47:03.536",
       "format": "ttf",
       "meta": {
-        "family": "Lato",
-        "style": "italic",
-        "weight": 700
+        "family": "DM Sans",
+        "variationAxes": {
+          "opsz": {
+            "name": "Optical size",
+            "min": 9,
+            "default": 9,
+            "max": 40
+          },
+          "wght": {
+            "name": "Weight",
+            "min": 100,
+            "default": 400,
+            "max": 1000
+          }
+        }
+      }
+    },
+    {
+      "id": "bf526d0351342f7ae54401fab7d06e564b1383a857ee1a389f38405c7b3c9ed8",
+      "name": "Group_1321314607_WQ6LIb7iBXgMfwE_iF1vz.png",
+      "description": null,
+      "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
+      "size": 6285,
+      "type": "image",
+      "format": "png",
+      "createdAt": "2024-07-19T14:55:57.584",
+      "meta": {
+        "width": 195,
+        "height": 195
+      }
+    },
+    {
+      "id": "c96cb43202e2c1e79a9054d0730db7ae1ab1dac3e30cce783ce148aeaf8f5158",
+      "name": "Group_1321314608_5OgZtYfALSEhCmCj1E8_g.png",
+      "description": null,
+      "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
+      "size": 2067483,
+      "type": "image",
+      "format": "png",
+      "createdAt": "2024-07-19T15:15:01.081",
+      "meta": {
+        "width": 1920,
+        "height": 1352
       }
     },
     {
@@ -17493,7 +17486,7 @@
       "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
       "size": 73332,
       "type": "font",
-      "createdAt": "2024-07-19T06:39:43.072Z",
+      "createdAt": "2024-07-19T06:39:43.072",
       "format": "ttf",
       "meta": {
         "family": "Lato",
@@ -17508,7 +17501,7 @@
       "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
       "size": 72000,
       "type": "font",
-      "createdAt": "2024-07-19T06:39:40.803Z",
+      "createdAt": "2024-07-19T06:39:40.803",
       "format": "ttf",
       "meta": {
         "family": "Lato",
@@ -17517,37 +17510,138 @@
       }
     },
     {
-      "id": "abf64cfa14645043a7c33f76435125f8b3de79c510adb938a1c16085518d4341",
-      "name": "Lato-Black_xhhMPRPmy205lrqo3Bn_1.ttf",
+      "id": "e38611f4c0ff3251a58fe751991c39784d8f9be420b004891e0b9277228ec32f",
+      "name": "Lato-BoldItalic_kw8Fo9E8TTpBip2vo_79w.ttf",
       "description": null,
       "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
-      "size": 69500,
+      "size": 77732,
       "type": "font",
-      "createdAt": "2024-07-19T06:39:38.279Z",
+      "createdAt": "2024-07-19T06:39:44.867",
+      "format": "ttf",
+      "meta": {
+        "family": "Lato",
+        "style": "italic",
+        "weight": 700
+      }
+    },
+    {
+      "id": "e82542aed8293f49fc83c4aaea566b1f6b4fc7a9ab5da11e6fb9bc0973b5324b",
+      "name": "Lato-Regular_SNUXzXRZs0P3nHXZm6xPh.ttf",
+      "description": null,
+      "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
+      "size": 75152,
+      "type": "font",
+      "createdAt": "2024-07-19T06:39:55.855",
       "format": "ttf",
       "meta": {
         "family": "Lato",
         "style": "normal",
-        "weight": 900
+        "weight": 400
       }
     },
     {
-      "id": "745d5585332e46bffc2346c248d0d48be789ae319c9258db1ac1ae8f0dcef57a",
-      "name": "Group_1_(2)_EvgHLk8D-h4c6kGD9R0jG.png",
+      "id": "eee6afef9be6c51ba4a4cc7cc2ab4f78dbdac6a3b39419633b8d3481e0736182",
+      "name": "DMSans-VariableFont_opsz_wght_OEVjbFZNCsBcnjDHxiCS5.ttf",
       "description": null,
       "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
-      "size": 65069,
+      "size": 238984,
+      "type": "font",
+      "createdAt": "2024-07-19T09:47:07.584",
+      "format": "ttf",
+      "meta": {
+        "family": "DM Sans",
+        "variationAxes": {
+          "opsz": {
+            "name": "Optical size",
+            "min": 9,
+            "default": 9,
+            "max": 40
+          },
+          "wght": {
+            "name": "Weight",
+            "min": 100,
+            "default": 400,
+            "max": 1000
+          }
+        }
+      }
+    },
+    {
+      "id": "efa949cedc96950ab667e3312a0db3bcb4a11b6aef13950b27b5b07f1c134973",
+      "name": "app_jFbLrs3hzanl-fnAYUo4R.png",
+      "description": null,
+      "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
+      "size": 6073,
       "type": "image",
       "format": "png",
-      "createdAt": "2024-07-18T20:46:55.119Z",
+      "createdAt": "2024-07-19T14:43:41.254",
       "meta": {
-        "width": 2846,
-        "height": 1500
+        "width": 148,
+        "height": 149
+      }
+    },
+    {
+      "id": "f1589eb2ebd132c355a7a09123b875be09723f69ae4038b8fd4978d9e9f4f39c",
+      "name": "elevenlabs-grants-logo_9ScpqtQZcTIXybN5sbIhP.png",
+      "description": null,
+      "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
+      "size": 82347,
+      "type": "image",
+      "format": "png",
+      "createdAt": "2024-08-09T17:11:29.027",
+      "meta": {
+        "width": 5340,
+        "height": 626
+      }
+    },
+    {
+      "id": "fab50e351a1565bf47e28f0244efd5ac496b75d420bed26d8fc5d6cef2cef860",
+      "name": "app_tDdcZbQbF3YkYnVtzdRui.png",
+      "description": null,
+      "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
+      "size": 6416,
+      "type": "image",
+      "format": "png",
+      "createdAt": "2024-07-19T14:43:57.987",
+      "meta": {
+        "width": 148,
+        "height": 149
+      }
+    },
+    {
+      "id": "fb5343c4375c38b1c3026336d355335e6a5b8531cbc9c6506eb4b6f6d67c152f",
+      "name": "Lato-Light_98ZXR2HIfnWk1iAs0hGxa.ttf",
+      "description": null,
+      "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
+      "size": 77208,
+      "type": "font",
+      "createdAt": "2024-07-19T06:39:51.156",
+      "format": "ttf",
+      "meta": {
+        "family": "Lato",
+        "style": "normal",
+        "weight": 300
+      }
+    },
+    {
+      "id": "fee1bd1daaa5efbcb93c8d074c61378dce155df0d32e00199b6a9457e427bc45",
+      "name": "Lato-Thin_BPiltVs98iypXV3s7CgNu.ttf",
+      "description": null,
+      "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
+      "size": 69976,
+      "type": "font",
+      "createdAt": "2024-07-19T06:39:57.819",
+      "format": "ttf",
+      "meta": {
+        "family": "Lato",
+        "style": "normal",
+        "weight": 100
       }
     }
   ],
   "user": {
     "email": "mohitmotwani1999@gmail.com"
   },
-  "projectDomain": "olive-ai-landing-page-f2j3e"
+  "projectDomain": "olive-ai-landing-page-f2j3e",
+  "projectTitle": "Olive AI Landing Page"
 }
