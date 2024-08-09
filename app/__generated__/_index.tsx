@@ -80,7 +80,7 @@ className="c1twnoba c1nlyjgt c1ltlv9x c1jnytir c1vy6a0n c1j59bld c1m7yiqq clufe4
 <Heading
 data-ws-id="BWnKYfBnjkI6AtBg8Nip0"
 data-ws-component="Heading"
-className="c1tbqsf8 crh4xym c14kkg6c c1dip7do c7jjez7 cd6vijc c1l3fu6x c1iy0pkd c1ks9sys cq0q2o2">
+className="c1tbqsf8 crh4xym c14kkg6c c1dip7do c1x3u2y cd6vijc c1l3fu6x c1iy0pkd c1ks9sys cq0q2o2 c18tkqs7 c1kzuvvg">
 {"Automate Call Campaigns With Human-Like Voice AI"}
 </Heading>
 <Paragraph
@@ -110,7 +110,7 @@ className="c1twnoba c1nlyjgt c1vy6a0n c1j59bld czl9ntb c1wo8qos c1irdt8j">
 <Heading
 data-ws-id="2xMV3xkv71xXiIYEMZiAw"
 data-ws-component="Heading"
-className="c1tbqsf8 c1jnytir c14kkg6c c1dip7do c7jjez7 coa8t4d cqu608j c1iy0pkd c1i5c3am c1es9bwp coc9b6b">
+className="c1tbqsf8 c1jnytir c14kkg6c c1dip7do c1x3u2y coa8t4d cqu608j c1iy0pkd c1i5c3am c1es9bwp coc9b6b">
 {"Central Hub For All Campaigns"}
 </Heading>
 <Vimeo
@@ -157,7 +157,7 @@ className="c1twnoba c1vy6a0n c1j59bld c1nlyjgt c65rmgt cl9ro3z">
 <Heading
 data-ws-id="ZCAgEZ2O2CPz8Ebq4G8Ce"
 data-ws-component="Heading"
-className="c1tbqsf8 crh4xym c14kkg6c c1dip7do c7jjez7 coa8t4d c1l3fu6x c1iy0pkd c1i5c3am c1es9bwp coaeim3">
+className="c1tbqsf8 crh4xym c14kkg6c c1dip7do c1x3u2y coa8t4d c1l3fu6x c1iy0pkd c1i5c3am c1es9bwp coaeim3">
 {"Call Campaigns Reimagined"}
 </Heading>
 <Box
@@ -175,7 +175,7 @@ className="c125txkx cou797o cp2qp5y cgwubrl c1x0vcxw c1ftzs5g c1afl6mn cg1rbpn c
 <Heading
 data-ws-id="WqdmOswmuBTYlEvk0mbKa"
 data-ws-component="Heading"
-className="c7jjez7 c19c7pm3 c1dip7do cqfbd4z c1jznqq4 c1mwfccn c1kb4mx7">
+className="c1x3u2y c19c7pm3 c1dip7do c1l3fu6x c1jznqq4 c1mwfccn c1kb4mx7">
 {"40%"}
 </Heading>
 <Paragraph
@@ -276,7 +276,7 @@ className="c7jjez7 c19c7pm3 c1dip7do cqfbd4z c1jznqq4 cov2qju c1i5c3am">
 <Italic
 data-ws-id="VBI7y-4-yfZydUYEIlHlP"
 data-ws-component="Italic"
-className="cdqm74o cgyzrxo">
+className="cdqm74o cgyzrxo c1x3u2y c1l3fu6x">
 {"0 set-up time"}
 </Italic>
 </Heading>
@@ -299,7 +299,7 @@ className="c125txkx cou797o cp2qp5y cgwubrl c1x0vcxw c1ftzs5g c1afl6mn cg1rbpn c
 <Heading
 data-ws-id="SN2bMIn1lBYMbJbdK2hrB"
 data-ws-component="Heading"
-className="c7jjez7 c19c7pm3 c1dip7do cqfbd4z c1mwfccn c1spkgfs c1jznqq4 cv3fwy2 c1kb4mx7">
+className="c1x3u2y c19c7pm3 c1dip7do cqfbd4z c1mwfccn c1spkgfs c1jznqq4 cv3fwy2 c1kb4mx7">
 {"अ A"}
 </Heading>
 <Paragraph
@@ -337,7 +337,7 @@ className="c1twnoba c1nlyjgt c1j59bld c1vy6a0n cz0kds6 c1p60roq cee2zhg c1coyq83
 <Heading
 data-ws-id="2IfOCgOst7msO5cTEkKVz"
 data-ws-component="Heading"
-className="c1tbqsf8 crh4xym c14kkg6c c1dip7do c7jjez7 coa8t4d c1l3fu6x c1iy0pkd c1es9bwp cv3fwy2">
+className="c1tbqsf8 crh4xym c14kkg6c c1dip7do c1x3u2y coa8t4d c1l3fu6x c1iy0pkd c1es9bwp cv3fwy2">
 {"FAQs"}
 </Heading>
 <Box
@@ -545,7 +545,7 @@ className="c1twnoba c1vy6a0n c1j59bld c1cvpbl0 cqr1i4x c1nlyjgt">
 <Text
 data-ws-id="s8HjZLfa1xVL5UqS8uN60"
 data-ws-component="Text"
-className="c1tbqsf8 c7jjez7 c1dip7do c1jznqq4 c1p8y3bj">
+className="c1tbqsf8 c1x3u2y c1dip7do c1jznqq4 c1p8y3bj">
 {"© 2024 Reboot Labs"}
 </Text>
 <HtmlEmbed
@@ -556,7 +556,7 @@ className="c7p21o8" />
 <Text
 data-ws-id="ZGnJsybHcpz2kCyM8PAFu"
 data-ws-component="Text"
-className="c1tbqsf8 c7jjez7 c1dip7do c2ieta c1p8y3bj">
+className="c1tbqsf8 c1x3u2y c1dip7do c2ieta c1p8y3bj">
 {"Bangalore, Karnataka, India"}
 </Text>
 </Box>

@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "a5f084d3-5d54-4902-a7d2-7bacfb9ef18f",
+    "id": "013df95d-d9fb-4979-bddb-e07049f93aed",
     "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
-    "version": 1936,
-    "createdAt": "2024-08-09T17:34:48.119",
-    "updatedAt": "2024-08-09T17:34:48.119",
+    "version": 1957,
+    "createdAt": "2024-08-09T19:07:52.713",
+    "updatedAt": "2024-08-09T19:07:52.713",
     "pages": {
       "meta": {
         "siteName": "Olive AI - Human-Like AI Voice Agents",
@@ -417,7 +417,7 @@
           "value": {
             "type": "fontFamily",
             "value": [
-              "DM Sans"
+              "Lato"
             ]
           }
         }
@@ -1554,7 +1554,7 @@
           "value": {
             "type": "fontFamily",
             "value": [
-              "DM Sans"
+              "Lato"
             ]
           }
         }
@@ -1672,7 +1672,7 @@
           "value": {
             "type": "fontFamily",
             "value": [
-              "DM Sans"
+              "Lato"
             ]
           }
         }
@@ -1948,7 +1948,7 @@
           "value": {
             "type": "fontFamily",
             "value": [
-              "DM Sans"
+              "Lato"
             ]
           }
         }
@@ -2241,7 +2241,7 @@
           "property": "fontWeight",
           "value": {
             "type": "keyword",
-            "value": "900"
+            "value": "700"
           }
         }
       ],
@@ -2715,13 +2715,13 @@
       [
         "tFDDOjZEaTr8MoAzWxnDF:yoGZNS9YONZO_Covc643s:fontFamily:",
         {
-          "styleSourceId": "tFDDOjZEaTr8MoAzWxnDF",
           "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "tFDDOjZEaTr8MoAzWxnDF",
           "property": "fontFamily",
           "value": {
             "type": "fontFamily",
             "value": [
-              "DM Sans"
+              "Lato"
             ]
           }
         }
@@ -8563,13 +8563,13 @@
       [
         "aAyaLH-FM7IrnNxDlTD4M:yoGZNS9YONZO_Covc643s:fontFamily:",
         {
-          "styleSourceId": "aAyaLH-FM7IrnNxDlTD4M",
           "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "aAyaLH-FM7IrnNxDlTD4M",
           "property": "fontFamily",
           "value": {
             "type": "fontFamily",
             "value": [
-              "DM Sans"
+              "Lato"
             ]
           }
         }
@@ -13767,7 +13767,7 @@
           "value": {
             "type": "fontFamily",
             "value": [
-              "DM Sans"
+              "Lato"
             ]
           }
         }
@@ -13865,13 +13865,13 @@
       [
         "r8Pt2sK5iMTPomcoc8Kkh:yoGZNS9YONZO_Covc643s:fontFamily:",
         {
-          "styleSourceId": "r8Pt2sK5iMTPomcoc8Kkh",
           "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "r8Pt2sK5iMTPomcoc8Kkh",
           "property": "fontFamily",
           "value": {
             "type": "fontFamily",
             "value": [
-              "DM Sans"
+              "Lato"
             ]
           }
         }
@@ -13937,6 +13937,56 @@
             "type": "unit",
             "value": 10,
             "unit": "px"
+          }
+        }
+      ],
+      [
+        "IubWAYLJkeH5Nh5AOiU7I:yoGZNS9YONZO_Covc643s:fontStyle:",
+        {
+          "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "IubWAYLJkeH5Nh5AOiU7I",
+          "property": "fontStyle",
+          "value": {
+            "type": "keyword",
+            "value": "normal"
+          }
+        }
+      ],
+      [
+        "IubWAYLJkeH5Nh5AOiU7I:yoGZNS9YONZO_Covc643s:textTransform:",
+        {
+          "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "IubWAYLJkeH5Nh5AOiU7I",
+          "property": "textTransform",
+          "value": {
+            "type": "keyword",
+            "value": "none"
+          }
+        }
+      ],
+      [
+        "wju6jip46UUM5EByn2qXj:yoGZNS9YONZO_Covc643s:fontFamily:",
+        {
+          "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "wju6jip46UUM5EByn2qXj",
+          "property": "fontFamily",
+          "value": {
+            "type": "fontFamily",
+            "value": [
+              "Lato"
+            ]
+          }
+        }
+      ],
+      [
+        "wju6jip46UUM5EByn2qXj:yoGZNS9YONZO_Covc643s:fontWeight:",
+        {
+          "breakpointId": "yoGZNS9YONZO_Covc643s",
+          "styleSourceId": "wju6jip46UUM5EByn2qXj",
+          "property": "fontWeight",
+          "value": {
+            "type": "keyword",
+            "value": "700"
           }
         }
       ]
