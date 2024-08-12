@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "013df95d-d9fb-4979-bddb-e07049f93aed",
+    "id": "f8686f63-3e15-405f-b8cb-fae42ba9ed15",
     "projectId": "c0165f10-e497-48ee-a8b9-2036941af185",
-    "version": 1957,
-    "createdAt": "2024-08-09T19:07:52.713",
-    "updatedAt": "2024-08-09T19:07:52.713",
+    "version": 1960,
+    "createdAt": "2024-08-12T10:29:09.826",
+    "updatedAt": "2024-08-12T10:29:09.826+00:00",
     "pages": {
       "meta": {
         "siteName": "Olive AI - Human-Like AI Voice Agents",
@@ -15777,7 +15777,7 @@
           "instanceId": "UXnArk1TwD1wJtTlsdps7",
           "name": "code",
           "type": "string",
-          "value": "<a href=\"https://elevenlabs.io/text-to-speech\">\n<img src=\"https://apps.webstudio.is/cgi/image/elevenlabs-grants-logo_8wognuqUaRxOP7lElHjrR.png?width=128&amp;quality=80&amp;format=auto\" alt=\"Text to Speech\" style=\"width:150px\">\n</a>"
+          "value": "<a href=\"https://elevenlabs.io/text-to-speech\">\n<img src=\"https://storage.googleapis.com/eleven-public-cdn/images/elevenlabs_grants_white.png\" alt=\"Text to Speech\" style=\"width:200px\">\n</a>"
         }
       ]
     ],

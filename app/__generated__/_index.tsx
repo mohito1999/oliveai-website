@@ -551,7 +551,7 @@ className="c1tbqsf8 c1x3u2y c1dip7do c1jznqq4 c1p8y3bj">
 <HtmlEmbed
 data-ws-id="UXnArk1TwD1wJtTlsdps7"
 data-ws-component="HtmlEmbed"
-code={"<a href=\"https://elevenlabs.io/text-to-speech\">\n<img src=\"https://apps.webstudio.is/cgi/image/elevenlabs-grants-logo_8wognuqUaRxOP7lElHjrR.png?width=128&amp;quality=80&amp;format=auto\" alt=\"Text to Speech\" style=\"width:150px\">\n</a>"}
+code={"<a href=\"https://elevenlabs.io/text-to-speech\">\n<img src=\"https://storage.googleapis.com/eleven-public-cdn/images/elevenlabs_grants_white.png\" alt=\"Text to Speech\" style=\"width:200px\">\n</a>"}
 className="c7p21o8" />
 <Text
 data-ws-id="ZGnJsybHcpz2kCyM8PAFu"
